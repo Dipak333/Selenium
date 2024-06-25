@@ -1,0 +1,22 @@
+<html>
+<title> ICSA9 </title>
+<body>
+username : <input type="text">
+password : <input type="password">
+firstname : <input type="text">
+surname : <input type="text">
+<input type="checkbox"> keep me logged in
+<input type="radio" name ="gender"> Male
+<input type="radio" name ="gender"> Female
+country code : <select name="code" single size=1>
+<option> +91 </option>
+<option> +1 </option>
+<option> +852 </option>
+<option> +33 </option>
+</select>
+mobile no : <input type="text">
+email id : <input type="text">
+address : <textarea> </textarea>
+<input type="button" value="Save">
+</body>
+</html>
